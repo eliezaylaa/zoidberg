@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import joblib
-from tensorflow import keras
+import keras
 
 # load models
 pca = joblib.load('chest_Xray/pca.pkl')
