@@ -2,6 +2,14 @@
 
 Machine learning project for detecting pneumonia from chest X-ray images using classical ML and a bonus CNN implementation.
 
+## Live Demo
+
+🫁 [Try the live demo on Hugging Face](https://huggingface.co/spaces/eliezaylaa/zoidberg)
+
+## Notebook HTML Export
+
+📓 [View the full notebook](https://eliezaylaa.github.io/zoidberg/chest_Xray/zoidberg.html)
+
 ## Overview
 
 Zoidberg analyzes chest X-ray images and classifies them as either NORMAL or PNEUMONIA using multiple machine learning approaches, including classical ML with PCA and a Convolutional Neural Network.
